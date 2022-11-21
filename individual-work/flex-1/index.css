@@ -10,9 +10,10 @@
 }
 
 body {
-    background-image: "C:\Users\akoup\Downloads\Cosmic-Gradient-14.jpg";
+    background-color: blue;
 }
 
 .card {
-    
+    width: 220px;
+    height: 190px;
 }
