@@ -14,6 +14,7 @@ body {
 }
 
 .card {
+    background-color: white;
     width: 220px;
     height: 190px;
 }
