@@ -10,12 +10,13 @@
     justify-content: center;
 }
 
-body {
-    background-image: url("C:\Users\akoup\Downloads\Cosmic-Gradient-14.jpg");
-}
+
+   
 
 .card {
     background-color: white;
     width: 220px;
     height: 190px;
 }
+
+
